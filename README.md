@@ -27,3 +27,13 @@
 - [rio-toa: Top Of Atmosphere (TOA) calculations for Landsat 8](https://github.com/mapbox/rio-toa)
 - [rioxarray](https://corteva.github.io/rioxarray/html/index.html)
 - [Landsat data on Google Cloud Storage](https://cloud.google.com/storage/docs/public-datasets/landsat)
+- Google Earth Engine (GEE):
+  - [Documentation](https://earthengine.google.com/)
+  - [Data Catalog](https://developers.google.com/earth-engine/datasets/catalog)
+  - [Landsat data on Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/landsat/)
+  - [GEE Guides](https://developers.google.com/earth-engine/guides)
+  - [Examples of Python packages for GEE](https://github.com/giswqs/Awesome-GEE#python-api)
+- `geemap` package:
+  - [Documentation](https://geemap.org/)
+  - [GEE tutorials](https://tutorials.geemap.org/)
+  - [Example notebooks with videos](https://geemap.org/tutorials/)

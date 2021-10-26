@@ -9,10 +9,11 @@
 - Using satellite imagery to detect changes in lake volume
 - Detecting urban heat islands in Philadelphia
 
-## Interesting Readings
+## Interesting Readings and Maps
 
 - [Redlining and Urban Heat Islands (NYT)](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html)
 - [Redlining in Philadelphia](https://controller.phila.gov/philadelphia-audits/mapping-the-legacy-of-structural-racism-in-philadelphia/)
+- [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
 
 ## References
 
